@@ -1,0 +1,88 @@
+body{
+  font-family: "Montserrat" , sans-serif;
+  margin: 0;
+}
+#title{
+  background-color: #270082;
+
+}
+#About{
+  background-color: #fff;
+  text-align: left;
+  padding:5% 10% 5%;
+}
+#qualities{
+  text-align: center;
+  margin-left: 100px;
+}
+.pricing-colomn3{
+  margin-top: 80px;
+}
+.pricing-colomn4{
+  margin-top: 80px;
+  margin-left: 80px;
+}
+.pricing-colomn1{
+
+}
+.pricing-colomn2{
+    margin-left: 80px;
+}
+.heading{
+  text-align: left;
+  padding: 3% 4% 5%;
+  margin-left:50px;
+  color: #0C1E7F;
+  margin-top: 50px;
+}
+.titleimg{
+  width: 80%;
+  float: right;
+  right: 50%;
+
+}
+.title{
+  margin-top: 100px;
+  font-family: 'Montserrat' , sans-serif;
+  font-size: 1.5rem;
+  line-height: 2;
+}
+.contact-me{
+    padding:0% 7% 5%;
+    text-align: center;
+}
+#footer{
+  background-color: #fff;
+  text-align: center;
+
+}
+.social-icon{
+  margin:20px 10px;
+}
+.email{
+  margin-top: 10px;
+}
+h2{
+  font-size: 2rem;
+}
+.q1{
+  font-family: cursive;
+}
+.checked{
+  color: orange;
+}
+.skills{
+  text-align: center;
+  padding:3% 4% 5%;
+}
+.hello{
+  padding: 0% 4% 5%;
+  margin-left:50px;
+  color: #0C1E7F;
+}
+hr{
+  border: dotted #0C1E7F 6px;
+  border-bottom: none;
+  width: 6%;
+  margin: 100px auto;
+}
