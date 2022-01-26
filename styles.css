@@ -52,8 +52,9 @@ body{
     text-align: center;
 }
 #footer{
-  background-color: #fff;
+  background-color: #FBE5E5;
   text-align: center;
+  padding: 3% 4% 5%;
 
 }
 .social-icon{
